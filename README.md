@@ -21,10 +21,6 @@ Proyectos de **desarrollo backend** utilizando Java, C++ o Python. También teng
 
 Puedes seguirme y contactarme a través de mis redes sociales o por correo electrónico. Estoy siempre dispuesto a conocer nuevos proyectos y colaborar con otros desarrolladores.
 
-* **Facebook:** [Enlace a tu perfil de Facebook]
 * **Correo electrónico:** [ortegayulissa423@gmail.com]
 
----
-
-Esto añade más detalles sobre tus intereses, habilidades y te presenta de manera más profesional. Además, al hablar de tecnologías emergentes y enfocarte en tus áreas de interés, da una imagen de alguien que está en constante evolución y preparado para colaborar en proyectos interesantes.
 
