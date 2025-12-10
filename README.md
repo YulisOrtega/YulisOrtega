@@ -5,9 +5,9 @@ Soy un desarrollador en constante aprendizaje, apasionado por la programación y
 ### 💡 Áreas de interés
 
 * **Lenguajes de programación:** Java, C++, Python, JavaScript
-* **Bases de datos:** MySQL, PostgreSQL, MongoDB
-* **Desarrollo de software:** Aplicaciones backend, desarrollo full-stack, optimización de código
-* **Tecnologías emergentes:** Inteligencia artificial, Big Data, Machine Learning
+* **Bases de datos:** MySQL, MongoDB
+* **Desarrollo de software:** Aplicaciones backend, frontend, optimización de código
+* **Tecnologías emergentes:** Inteligencia artificial,Machine Learning
 
 ### 🌱 Actualmente estoy...
 
@@ -15,12 +15,12 @@ Enfocado en profundizar mis conocimientos sobre el desarrollo de bases de datos 
 
 ### 🤝 Estoy buscando colaborar en...
 
-Proyectos de **desarrollo backend** utilizando Java, C++ o Python. También tengo experiencia en bases de datos y me gustaría colaborar en proyectos que necesiten optimización y administración de datos a gran escala. Si tienes una idea o proyecto interesante, ¡no dudes en contactarme!
+Proyectos de **desarrollo frontend** utilizando Javascript, Python, React. También tengo experiencia en bases de datos y me gustaría colaborar en proyectos que necesiten optimización y administración de datos a gran escala. Si tienes una idea o proyecto interesante, ¡no dudes en contactarme!
 
 ### 📬 ¿Cómo contactarme?
 
 Puedes seguirme y contactarme a través de mis redes sociales o por correo electrónico. Estoy siempre dispuesto a conocer nuevos proyectos y colaborar con otros desarrolladores.
 
 * **Correo electrónico:** [ortegayulissa423@gmail.com]
-
-
+* **Facebook:** [https://www.facebook.com/yulissa.ortegacuevas.1]
+* **Instagram:** [https://www.instagram.com/yuliiii_ortega?igsh=eXM0ZmF5bnk5bTNk]
